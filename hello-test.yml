@@ -1,3 +1,4 @@
 config:
   info: goodmoring  
-
+server:
+  port: 6001

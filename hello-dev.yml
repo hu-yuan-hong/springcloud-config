@@ -1,5 +1,7 @@
 config:
   info: hellowold   
+server:
+  port: 7001  
 
 
   
