@@ -1,4 +1,2 @@
 config:
-  info: goodmoring  
-server:
-  port: 6001
+    info: version-test-01
