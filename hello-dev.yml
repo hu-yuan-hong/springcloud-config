@@ -1,5 +1,5 @@
-server:
-  port: 6001     
+    
+
 config:
   info: hellowold
   
